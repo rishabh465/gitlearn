@@ -1,1 +1,6 @@
 line 1 in file2;
+
+
+
+
+line 2;
